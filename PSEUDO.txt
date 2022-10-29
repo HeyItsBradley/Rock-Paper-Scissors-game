@@ -1,0 +1,59 @@
+PseudoCode
+
+varables, if statement, function
+
+Rock, paper, Scissors Game
+
+How does a user win in the game??
+
+rock beats Scissors
+paper beast rock
+scissors beats paper
+
+maybe user if(wins) then display win
+if user !wins then display loss
+
+waht data do i need to track in the game???
+VARIABLES -userChoise, wins, losses, ties, computerChoice
+
+var wins = 0
+var ties = 0
+var losses = 0
+
+var userChoise
+var computerChoice HOW DO I GET TH ECOMPUTER CHOICE?? what choices can the computer chose? R, P, S --randomly chosen
+Random .. random numeric value
+var rnadomNum =
+                      //0   1    2
+var computerChoice = {"R", "P", "S"}
+
+alert : computerChoice
+
+alert: win or losess
+
+alert: stats
+
+confirm: Play Again?
+
+
+
+how do i determine based on the choices if mne as a user won or not???
+
+user chose rock, computer chose paper 
+
+if(condition){
+    //write code
+    losess++
+
+}
+
+promt for user input
+
+select computerChoice
+
+compare
+
+if user wins display you won
+
+otherwise say you lost
+
