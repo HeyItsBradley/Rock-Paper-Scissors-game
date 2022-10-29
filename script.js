@@ -52,7 +52,10 @@ function playGame() {
   //after the result is presented, it will run another alert that display wins ties and losses.
 
   alert(
-    "Your Wins: " + wins + (" Your losses: " + losses) + (" Your Ties: " + ties)
+    "Your Wins: " +
+      wins +
+      ("\n Your losses: " + losses) +
+      ("\nYour Ties: " + ties)
   );
   //then we are asked to confirm if we would like to play again
   var playAgain = confirm("would you like to play again ?");
